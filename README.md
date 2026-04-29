@@ -6,7 +6,7 @@ A simple and interactive **QR Code Generator Web App** built using **Streamlit**
 
 ## 🚀 Live Demo
 
-👉 https://your-app-name.streamlit.app
+👉 https://apzbjfvdtffqfdp2rptzao.streamlit.app/
 
 ---
 
@@ -34,7 +34,7 @@ A simple and interactive **QR Code Generator Web App** built using **Streamlit**
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/streamlit-qr-generator.git
+git clone https://github.com/Mafi-Jangra/Scan-Me-App.git
 cd streamlit-qr-generator
 ```
 
@@ -69,15 +69,7 @@ http://localhost:8501
 
 ---
 
-## 📁 Project Structure
 
-```
-streamlit-qr-generator/
-│
-├── app.py
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -94,46 +86,9 @@ You can customize QR code settings inside the code:
 
 ---
 
-## 🧪 Example Code
-
-```python
-import qrcode
-
-data = "https://www.google.com"
-img = qrcode.make(data)
-img.save("qrcode.png")
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a Pull Request
-
----
 
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-## 💡 Future Improvements
-
-* 🎨 Custom QR colors
-* 🖼️ Add logo inside QR
-* 🌐 Deploy enhancements
-* 📊 QR scan analytics
-
----
-
-## 📬 Contact
-
-Feel free to reach out for suggestions or improvements!
 
 ---
